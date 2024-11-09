@@ -28,8 +28,8 @@ A comprehensive Python-based website performance analysis tool that provides det
 
 # Installation 🔧
 1. Clone the repository:
-```git clone https://github.com/yourusername/webmetrix.git```
-```cd webmetrix```
+```git clone https://github.com/volksgeistt/webAnalyzer```<br>
+```cd webAnalyzer```
 2. Install required packages:
 ```pip install -r requirements.txt```
 
