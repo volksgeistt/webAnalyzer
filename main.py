@@ -6,6 +6,7 @@ from urllib.parse import urlparse
 import json
 import logging
 from datetime import datetime
+from bs4 import BeautifulSoup
 
 class WebsitePerformanceAnalyzer:
     def __init__(self):
